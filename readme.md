@@ -2,8 +2,8 @@
 - Create the copy of the project.
 - Open command prompt and change your current path to folder where you can find 'app.py' file.
 - Create environment by command given below-
-conda create -name <environment name>
-- Activate environment by command as follows- conda activate <environment name>
+conda create -name 'environment name'
+- Activate environment by command as follows- conda activate 'environment name'
 - Use command below to install required dependencies-
 python -m pip install -r requirements.txt
 - Run application by command;
